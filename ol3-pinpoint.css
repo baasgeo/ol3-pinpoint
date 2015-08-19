@@ -1,0 +1,11 @@
+.ol-pinpoint {
+    color: rgba(17, 193, 243, 1);
+    bottom: calc(50% - 29px);
+    right: calc(50% - 26px);
+    text-align: right;
+    font-size: 60px;
+    position: absolute;
+    text-shadow: 1px -1px 5px white;
+    -moz-user-select: none;
+    pointer-events: none;
+}

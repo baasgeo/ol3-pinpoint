@@ -1,0 +1,11 @@
+{
+  "name": "ol3-pinpoint",
+  "version": "0.0.1",
+  "description": "OpenLayers 3 Pinpoint Control",
+  "main": [
+    "ol3-pinpoint.js",
+    "ol3-pinpoint.css"
+  ],
+  "ignore": [
+  ]	
+}
